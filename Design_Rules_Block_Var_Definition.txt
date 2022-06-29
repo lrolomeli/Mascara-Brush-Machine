@@ -1,0 +1,44 @@
+Reglas de diseño para bloques en ISPSoft
+
+Nomenclatura:
+
+Unidad de Control: moduleName_CU
+
+Actuator: moduleName_ACT
+
+Module: MODULE_NAME_MDL
+
+Folder Name: MODULE_NAME
+
+inductive sensors: function_indsn
+
+capacitive sensors: function_cpsn
+
+timers: function_tmr
+
+constants: function_cnst
+
+extend rod: function_ext
+
+shrink rod: function_shr
+
+start: function_st
+
+done: function_dn
+
+valve: function_vlv
+
+wire connection: function_w
+
+outter connection: function_wout
+
+outter input connection: function_inw
+
+sensor detected: function_sndt
+
+
+
+
+
+
+
